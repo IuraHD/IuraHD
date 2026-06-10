@@ -94,16 +94,8 @@ I am especially interested in junior roles where I can help with support workflo
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IuraHD&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="160" alt="Iurie's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IuraHD&show_icons=true&theme=tokyonight" height="160" alt="Iurie's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuraHD&layout=compact&theme=tokyonight" height="160" alt="Iurie's top languages" />
-</div>
-
----
-
-## Commit Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=IuraHD&theme=tokyonight&cache_seconds=86400" alt="Iurie's GitHub streak" />
 </div>
 
 ---
